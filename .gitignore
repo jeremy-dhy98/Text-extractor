@@ -1,0 +1,18 @@
+# Ignore unwanted files  
+.etraction.py.un~
+.ipynb_checkpoints/
+Lib/
+cripts/
+ib.org).pdf
+__pycache__
+etc/
+etraction.py~
+pyvenv.cfg
+        
+Scripts/
+      
+        
+share/
+        
+       
+
